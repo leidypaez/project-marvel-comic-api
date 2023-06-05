@@ -12,15 +12,15 @@ Según las entrevistas y análisis propuestos y realizados se llego a la conclus
 
 ## 3. Diseño UX
 creacion de los prototipos de baja fidelidad y los prototipos de alta fidelidad en figma tales como:
-    - Sketch: Lluvia de ideas de cada una de las pantallas a viasualizar - prototipos de baja fidelidad
-    - WireFrames: Estructurapara indicar con figuras geometricas cada una de las secciones mas llamativas como imagenes y textos
-    - StyleGuide: Guia de estilos como los colores principales - tipos de fuente - tamaño de los textos
-    - Layouts: Se muestran los prototipos de alta fidelidad del resultado final del sitio web, con ello 3 pestañas aparte para visualizar mejor los:
-      * Prototipos Desktop
-      * Prototipos Tablet
-      * Prototipos Mobile
+* Sketch: Lluvia de ideas de cada una de las pantallas a viasualizar - prototipos de baja fidelidad
+* WireFrames: Estructurapara indicar con figuras geometricas cada una de las secciones mas llamativas como imagenes y textos
+* StyleGuide: Guia de estilos como los colores principales - tipos de fuente - tamaño de los textos
+* Layouts: Se muestran los prototipos de alta fidelidad del resultado final del sitio web, con ello 3 pestañas aparte para visualizar mejor los:
+   * Prototipos Desktop
+   * Prototipos Tablet
+   * Prototipos Mobile
 
-* [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/3E3gp0WkhjpkAabLZT1Jf3/Project-marvel-api?type=design&node-id=0-1&t=JzUZLxCCX5aX33qh-0) Pagina de figma
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/3E3gp0WkhjpkAabLZT1Jf3/Project-marvel-api?type=design&node-id=0-1&t=JzUZLxCCX5aX33qh-0) Link de figma
 
 ## Diseño
 ### Paleta de colores
