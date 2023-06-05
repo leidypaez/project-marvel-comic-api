@@ -20,7 +20,7 @@ creacion de los prototipos de baja fidelidad y los prototipos de alta fidelidad 
    * Prototipos Tablet
    * Prototipos Mobile
    * link de figma en el icono
-     [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/3E3gp0WkhjpkAabLZT1Jf3/Project-marvel-api?type=design&node-id=0-1&t=JzUZLxCCX5aX33qh-0) 
+   * [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/3E3gp0WkhjpkAabLZT1Jf3/Project-marvel-api?type=design&node-id=0-1&t=JzUZLxCCX5aX33qh-0) 
 
 ## Diseño
 ### Paleta de colores
