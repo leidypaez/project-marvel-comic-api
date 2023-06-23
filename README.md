@@ -1,5 +1,5 @@
 # Proyecto pagina marvel
-![LOGO_MARVEL]()
+![LOGO_MARVEL](https://github.com/leidypaez/project-marvel-comic-api/blob/main/src/assets/images/Logo_marvel.png)
 
 ## 1. Descripción
 Un sitio web para amantes de las películas de Marvel con imágenes descriptivas. Fácil acceso al contenido, requiere crear una cuenta con correo y contraseña, opcionalmente se puede utilizar Google o Facebook para facilitar el ingreso.
