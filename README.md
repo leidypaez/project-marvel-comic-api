@@ -33,7 +33,7 @@ creacion de los prototipos de baja fidelidad y los prototipos de alta fidelidad 
 | ![#1a1a1adf](https://via.placeholder.com/15/1a1a1adf/000000?text=+) | `#1a1a1adf` |
 
 ## Que instalar y como correr el programa
-To clone and run this application, you'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer. From your command line:
+Para clonar y correr esta aplicacion, necesitaras: [Git](https://git-scm.com) y [Node.js](https://nodejs.org/en/download/) (viene con [npm](http://npmjs.com)) intalarlo en el computador. lieas de comando:
 
 ```bash
 # Clone this repository
