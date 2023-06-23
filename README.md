@@ -2,25 +2,25 @@
 ![LOGO_MARVEL]()
 
 ## 1. Descripción
-Es un sitio web para el publico amante de las películas de Marvel, se genera para todo publico ya que tiene variedad de imágenes descriptivas y no es difícil acceder a su contenido, la persona la cual use la plataforma si quiere adentrarse mas tendrá que crear un correo y contraseña donde se agrega Google y Facebook para que así sea mucho mas sencillo ingresar al lugar y así mismo poder incluso crearlo de la manera clásica si lo desea
+Un sitio web para amantes de las películas de Marvel con imágenes descriptivas. Fácil acceso al contenido, requiere crear una cuenta con correo y contraseña, opcionalmente se puede utilizar Google o Facebook para facilitar el ingreso.
 
 
 # 2. Entrevista
-Según las entrevistas y análisis propuestos y realizados se llego a la conclusión de que la plataforma es perfecta para adultos y niños, no es necesario leer para entender que solo trata de tiras de comics y películas donde claramente es solo de Marvel, sin tener que hacer uso de otros superhéroes como los de DC, se entiende que solo es de un estudio y el contenido es explicativo y claro para acceder a el.
+Segun entrevista y analisis es una plataforma ideal para adultos y niños amantes de Marvel. Se enfoca exclusivamente en tiras de cómics y películas de Marvel, sin incluir superhéroes de DC. El contenido es claro y explicativo, no es necesario leer para comprenderlo y acceder a él.
 
 
 
 ## 3. Diseño UX
 creacion de los prototipos de baja fidelidad y los prototipos de alta fidelidad en figma tales como:
-    - Sketch: Lluvia de ideas de cada una de las pantallas a viasualizar - prototipos de baja fidelidad
-    - WireFrames: Estructurapara indicar con figuras geometricas cada una de las secciones mas llamativas como imagenes y textos
-    - StyleGuide: Guia de estilos como los colores principales - tipos de fuente - tamaño de los textos
-    - Layouts: Se muestran los prototipos de alta fidelidad del resultado final del sitio web, con ello 3 pestañas aparte para visualizar mejor los:
-      * Prototipos Desktop
-      * Prototipos Tablet
-      * Prototipos Mobile
-
-* [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/3E3gp0WkhjpkAabLZT1Jf3/Project-marvel-api?type=design&node-id=0-1&t=JzUZLxCCX5aX33qh-0) Pagina de figma
+* Sketch: Lluvia de ideas de cada una de las pantallas a viasualizar - prototipos de baja fidelidad
+* WireFrames: Estructurapara indicar con figuras geometricas cada una de las secciones mas llamativas como imagenes y textos
+* StyleGuide: Guia de estilos como los colores principales - tipos de fuente - tamaño de los textos
+* Layouts: Se muestran los prototipos de alta fidelidad del resultado final del sitio web, con ello 3 pestañas aparte para visualizar mejor los:
+   * Prototipos Desktop
+   * Prototipos Tablet
+   * Prototipos Mobile
+   * link de figma en el icono
+   * [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/file/3E3gp0WkhjpkAabLZT1Jf3/Project-marvel-api?type=design&node-id=0-1&t=JzUZLxCCX5aX33qh-0) 
 
 ## Diseño
 ### Paleta de colores
