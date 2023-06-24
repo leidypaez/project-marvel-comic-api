@@ -50,4 +50,4 @@ $ ng start
 ```
 
 7. ## Autoria
-Este documento y pagina es creación de leidy alexandra garavito páez
+💻 Este documento y pagina es creación de leidy alexandra garavito páez
