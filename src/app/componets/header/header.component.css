@@ -1,7 +1,69 @@
-* {
-    padding: 0;
-    margin: 0;
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+.header {
+    background-color: #000000;
 }
-header {
-    background-color: black;
+
+nav {
+    max-width: 1500px;
+    margin:  0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 10px;
 }
+nav .container {
+    display: flex;
+    align-items: center;
+    z-index: 100;
+}
+
+nav ul li {
+    float: left;
+    list-style: none;
+}
+
+nav ul li a {
+    text-transform: uppercase;
+    padding: 45px;
+    color: #FFF;
+    font-size: 15px;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.container img {
+    width: 230px;
+}
+.container ul li a{
+    padding-left: 80px;
+}
+
+#menu {
+    display: none;
+}
+
+.menu-icon {
+    width: 35px;
+}
+
+label .menu-icon  {
+    cursor: pointer;
+    display: none;
+}
+
+@media(max-width: 1024px) {
+    nav {
+        padding: 10px;
+    }
+    .container img {
+        width: 150px;
+    }
+}
+
+/* @media(max-width: 912px) {
+    nav {
+        padding: 10px;
+    }
+} */
