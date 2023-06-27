@@ -1,23 +1,24 @@
 <header>
     <div class="header">
-        <nav>
+        <nav [class.menuClass]="menuVariable">
             <div class="container">
                 <img src="/assets/images/Logo_marvel.png" class="logo" alt="">
-                <ul>
-                    <li class="new-items1"><a href="">Home</a></li>
-                    <li class="new-items1"><a href="">Personajes</a></li>
-                </ul>
-            </div>
-            <input type="checkbox" id="menu">
-            <label for="menu">
-                <img src="/assets/icons/icono_menu.png" class="menu-icon" alt="">
-            </label>
-            <ul>
                 <div class="new-items">
+                    <ul>
+                        <li><a href="">Home</a></li>
+                        <li><a href="">Personajes</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="boton">
+                <img src="/assets/icons/icono_menu.png" class="menu-icon" alt="">
+            </div>
+            <div class="new-items-login">
+                <ul>
                     <li><a href="">Iniciar sesion</a></li>
                     <li><a href="">Registrarse</a></li>
-                </div>
-            </ul>
+                </ul>
+            </div>
         </nav>
     </div>
 </header>
