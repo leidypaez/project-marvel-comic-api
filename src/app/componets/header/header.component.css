@@ -110,3 +110,42 @@ nav ul li a {
         left: 37%;
     }
 }
+
+@media(max-width: 610px) {
+    nav .new-items ul {
+        top: 15.9%;
+        position: absolute;
+        left: 20%;
+        right: 0;
+    }
+    
+    nav .new-items-login ul li {
+        padding: 0 110px;
+    }
+}
+
+@media(max-width: 502px) {
+    nav .new-items-login ul li {
+        padding: 0 75px;
+    }
+}
+
+@media(max-width: 360px) {
+    nav .new-items ul {
+        top: 15.9%;
+        position: absolute;
+        left: -6%;
+        right: 0;
+    }
+
+    nav .new-items-login ul li {
+        padding: 0 33px;
+    }
+
+    nav ul li a {
+        padding: 0;
+    }
+    .container img {
+        left: 27%;
+    }
+}
