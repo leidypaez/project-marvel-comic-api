@@ -57,45 +57,56 @@ nav ul li a {
 @media(max-width: 947px) {
     nav {
         padding: 5px 0;
+        display: flex;
+        flex-direction: row-reverse;
     }
-
-    .container ul li a{
-        padding-left: 46px;
-    }
-
+    
     nav .new-items ul {
-        position: fixed;
-        flex-direction: column;
-        top: 23%;
-        background-color: #2b2b2b;
         display: flex;
-        left: 95%;
-        right: 0%;
         line-height: 75px;
+        font-size: 10px;
     }
-
+ 
     nav .new-items-login ul{
-        position: absolute;
-        flex-direction: column;
-        top: 8%;
-        background-color: #2b2b2b;
         display: flex;
-        left: 40%;
-        right: 0%;
         line-height: 75px;
     }
 
-    .menu-icon {
-        position: absolute;
-        display: block;
-        left: 90%;
-        top: 3%;
+    nav ul li a {
+        padding: 25px;
+        font-size: 12px;
     }
-
-    .menuClass .new-items ul{
-        left: 40%;
-    }
-
 }
 
-/* transition: all 500ms ease; */
+@media(max-width: 716px)  {
+    nav .new-items ul {
+        top: 7.9%;
+        position: absolute;
+        left: 50%;
+        background-color: #000000;
+        padding: 0 20px;
+        right: 0;
+    }
+ 
+    nav .new-items-login ul{
+        top: 7.9%;
+        position: absolute;
+        left: -4%;
+        background-color: #000000;
+        padding: 0 48px;
+    }
+
+    nav .new-items-login ul li {
+        padding: 0 29px;
+    }
+
+    nav ul li a {
+        padding: 10px;
+        font-size: 12px;
+    }
+    .container img {
+        position: absolute;
+        top: 1%;
+        left: 37%;
+    }
+}

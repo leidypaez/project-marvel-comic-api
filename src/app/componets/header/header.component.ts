@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class HeaderComponent {
   menuVariable:boolean = false;
+  isAuthenticated: boolean = false;
 }
