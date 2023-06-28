@@ -1,0 +1,39 @@
+.parallax {
+    height: 60vh;
+    position: relative;
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    width: 100%;
+    background-image: url(/assets/images/portada_comic_grande.jpg),linear-gradient(180deg, #000 0%, rgba(23, 34, 90, 0.26) 66.67%, rgba(6, 6, 6, 0.57) 82.81%, #090909 100%);
+    background-blend-mode: multiply;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+@media(max-width: 917px) {
+    .parallax {
+        height: 50vh;
+        max-width: 90%;
+    }
+}
+
+@media(max-width: 716px)  {
+    .parallax {
+        margin-top: 23%;
+        height: 40vh;
+    }
+}
+
+@media(max-width: 610px) {
+    .parallax {
+        margin-top: 37%;
+    }
+}
+
+@media(max-width: 360px) {
+    .parallax {
+        margin-top: 77%;
+        height: 30vh;
+    }
+}
