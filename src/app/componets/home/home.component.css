@@ -7,3 +7,15 @@
 .icons-marvel {
     margin-left: 22%;
 }
+
+.text_2 {
+    display: flex;
+    
+}
+.text_2 p {
+    color: #FFF;
+    text-align: center;
+    font-size: 27px;
+    font-family: Lato;
+    font-weight: 200;
+}
